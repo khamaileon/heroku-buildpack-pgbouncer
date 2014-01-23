@@ -105,6 +105,7 @@ and [stunnel](http://linux.die.net/man/8/stunnel) configurations to see what set
 - `PGBOUNCER_RESERVE_POOL_TIMEOUT` Default is 5.0 seconds
 - `PGBOUNCER_URLS` Default is DATABASE_URL
 - `PGBOUNCER_CONNECTION_RETRY` Default is no
+- `PGBOUNCER_SYSLOG` Default is 0
 - `PGBOUNCER_LOG_CONNECTIONS` Default is yes
 - `PGBOUNCER_LOG_DISCONNECTIONS` Default is yes
 - `PGBOUNCER_LOG_POOLER_ERRORS` Default is yes
